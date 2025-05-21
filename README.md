@@ -1,4 +1,4 @@
-# COMPOSURE256
+# CLASSHUB
 🔐 Project Prompt: Secure School Management System (React + Django)
 Objective:
 Build a highly secure, efficient, and user-friendly school management system using React (frontend) and Django (backend). The system must include role-based access control, user ID creation, mobile/online payments, and barcode-based verification for multiple user roles.
